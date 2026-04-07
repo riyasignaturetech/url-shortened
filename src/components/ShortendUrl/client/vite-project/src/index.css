@@ -1,8 +1,4 @@
-* { margin: 0; padding: 0; box-sizing: border-box; font-family: "Segoe UI", sans-serif; }
 
-body { background: #f0f2f5; min-height: 100vh; }
-
-/* Auth */
 .auth-container {
   display: flex; align-items: center; justify-content: center; min-height: 100vh;
 }
@@ -99,4 +95,5 @@ body { background: #f0f2f5; min-height: 100vh; }
   .time-row { flex-direction: column; }
   .link-table th:nth-child(3), .link-table td:nth-child(3) { display: none; }
   .dash-header { flex-direction: column; gap: 12px; align-items: flex-start; }
-}
+} */
+
